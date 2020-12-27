@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "papeleria-f3646",
+  "private_key_id": "fb644a486b1caa6e7e2671309dff63ff64d7b9ff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4camqnE0zsAGu\nlVmSi/4kNBZNBcDYJzP/O7fWi3QSFSr5/k0KZCfda96niyAA+FbI2txnbwcmpldT\n89UlAOn+mmDsoRW9EhfI3YtZB3rOfBohJYQ2IhcEvlaiqsCaFINBvW8d8QoYL0nR\nmij/9HZk7KNjiCLrczpFFaicMl8fw4oLb50JAguBFip2puEQTnD+dMFrRbRGfZtU\n92oqODS21rK430pA/Uh4SzCzc722NoaQBpo9KXou4YG1R+/vJ/3xUTBHm9I+HdT1\nzH7j208sUfVdX9L/4JUlLvnnpjEgHXZxnuV/ysSWITEfpLMZpty+HKMMTvA8nDIU\nqSZzGJ2FAgMBAAECggEAWHH0xMHXyXHclJ28iqgD0dOCYCPioiRGbF10HfbYTXWG\nGsQFqHZ3oVeBOQFfcuejIgTFTPoySSfZ14Gk0245RuQ7lyz1kikza5hFIoeSLaLY\nGs31NMorFJS7UZyk6B3vBR60Qnzb9NX0RYTxpS9SeLn67ZcR+6rRJeCpbmE/OSjG\nUYZ6JMZVRq1bQk4y/f1IjExVLtKXWDyuCxLrUnY1XplZRfAaXivyrqklUpviRfer\n9oEDCnNUwA4S2DwAGlxh/QfVf86ItH2aGMZek7GzVs9JfvpzkZ0z/KmVRQNE5qh+\nBZQv4CrElMtN3zJyZoFMFp6yMmJWQJAPNSBlmzUXTwKBgQD5UuYEWHpK7p/XeYMh\nkviFbryK0VuCkHMzVrOsykBE0yOxy9UUg/emknS/jKomL1gcno82znho8B3rxRQL\nMEj3OpNN4+LY32xpLIYfQCI5ct+HHXcPDDL8J0ujIlzbfDWPC9za1BCEB3NYjzyO\nMJ9jgzkK0KnOF9g+LOVHqZ8YcwKBgQC9YgQ5jfePQ6xP79RVmjX+50UEU7TUFBHT\nLytcEWJFqxY+QkOmHTk9C6P6S5wX6sFh0PCLGophYujBtVEMozxs4a5ClJDOXfQN\n9jI854505NkKBfWGl3aZYTlIphdQlQpRuf508MafuO3gTHd2QKEr3kRNIV+7hGSM\nfIOe9U+MJwKBgFrRF3f9wo4I3bBfUqSoJF52N7dZCzxD4bKRomEOStrHDfl1hegz\nKcJDFsOvOUsvc6j5GLGeA741uLBo2SQ6MlnbvExi9f6JY7Prw+8eLVk/vqw4z2Vr\nzCaNKcAChFBurhOs/oW3OUzeaeWYRzaD/4sAAYcu+qtXhC0hrWKtJoaBAoGACy+h\n7kBbcgPeRq50zUWZkN/aLMJA+RHiZ6XumraQJmtPmgfR9RreyaNJYTxcEPGV0JBF\n1QGRUOVFuENccTGnHQtLfrVFxFq6UqTLHNvUh0UJKNVnRjbmE3Mxrf/ZerIC9QbW\nZ9Pc94w1yLzbhYmVu4Caai/hdrMAOWgVYis9MpsCgYEA6D2J/LsN+hPD/N9+hqZd\nlJwg++bEm4LMLdDetGJFB3gJGR5p+rld5eLXVrdw60DixtPR/GyhFsFBp9YAR2uv\nNhehG+E5a7jRzTcL92eKhbRJKeykuBT3SStB3gGgCxQOWVeMvf676sQT52LNUAup\n5VQYNbNkO5p1/47T3xbY0t0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-cms04@papeleria-f3646.iam.gserviceaccount.com",
+  "client_id": "115881085046740195557",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-cms04%40papeleria-f3646.iam.gserviceaccount.com"
+}
